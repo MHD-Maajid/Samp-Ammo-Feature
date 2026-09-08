@@ -12,4 +12,4 @@ you can modify this script to make it better this feature is done for samp rolep
 
 this script works solely on Open.Mp , its a light weight feature know better by taking a deep look into the system
 
-contact us for more custom features on discord.
+contact me for more custom features on discord.
