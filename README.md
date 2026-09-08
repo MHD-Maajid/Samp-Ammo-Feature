@@ -1,7 +1,8 @@
 Weapon ammo system  - Developed by Simon</>
 
 read features.md to know about the features on Ammo system
-read howtosetup.md to integrate this function to your game-mode this system stands as a include
+
+read howtosetup.md to integrate this system to your game-mode this system stands as a include
 
 i'm publishing this script publicly for educational and integral purposes
 
