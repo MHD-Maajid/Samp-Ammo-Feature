@@ -17,3 +17,6 @@ you can modify this script to make it better this feature is done for samp rolep
 this script works solely on Open.Mp , its a light weight feature know better by taking a deep look into the system
 
 contact me for more custom features on discord.
+
+i do drop free samp stuffs on my github keep an eye.
+
